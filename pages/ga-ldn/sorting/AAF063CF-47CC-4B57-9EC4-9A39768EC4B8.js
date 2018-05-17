@@ -34,3 +34,6 @@ fishData = [
     lifespan: 5
   }
 ];
+
+console.log('The sorting/filtering lab');
+console.log('By Rob Levy');
