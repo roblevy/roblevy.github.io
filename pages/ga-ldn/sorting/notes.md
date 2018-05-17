@@ -78,6 +78,14 @@ numbers.filter(x => x > 5);
 numbers.filter(x => [2, 8, 20].includes(x));
 ```
 
+**Practice** Can you get the reviews about Rob from the `reviews` array?
+
+### Partial matches
+What if we want to only match strings which start with Rob?
+
+- Try "match start of string" `^`
+- Now try word boundary `\b`
+
 # Lodash
 
 Lodash is a library (not a framework!) with some useful helper functions.
