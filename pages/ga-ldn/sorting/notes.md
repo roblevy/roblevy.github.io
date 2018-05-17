@@ -86,6 +86,8 @@ What if we want to only match strings which start with Rob?
 - Try "match start of string" `^`
 - Now try word boundary `\b`
 
+How the heck are we gonna remember these? Use regex101.com
+
 # Lodash
 
 Lodash is a library (not a framework!) with some useful helper functions.
