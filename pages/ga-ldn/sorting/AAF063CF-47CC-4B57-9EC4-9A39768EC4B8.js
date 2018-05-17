@@ -2,7 +2,7 @@ let fish = ['Salmon', 'Herring', 'Haddock', 'Plaice', 'Sole', 'Shark'];
 let moreFish = ['Salmon', 'Herring', 'haddock', 'plaice', 'sole', 'Shark'];
 let numbers = [4, 2, 10, 8, 6, 12];
 
-fishData = [
+let fishData = [
   {
     name: 'Salmon',
     deepSea: false,
